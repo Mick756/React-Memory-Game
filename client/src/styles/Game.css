@@ -1,0 +1,15 @@
+.Game-Card-Container {
+    margin: 0 auto;
+    background-color: black;
+    height: calc(120vh);
+    width: 100%;
+}
+
+.Game-Stats {
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    margin: 0;
+}

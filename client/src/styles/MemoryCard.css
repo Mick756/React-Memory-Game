@@ -1,0 +1,15 @@
+.Memory-Card-Container {
+    background-color: dodgerblue;
+    padding: 10px;
+    width: 13%;
+    height: calc(160px + 2vh);
+    margin: 1%;
+    float: left;
+}
+
+.Memory-Card-Picture {
+    height: 90%;
+    width: 90%;
+    margin: 5%;
+    background-color: white;
+}
